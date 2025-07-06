@@ -32,7 +32,7 @@ This project presents a sales data analysis for a retail superstore using Python
 ## 📊 Key Insights & Visualizations
 
 ### 📍 Total Revenue by Region
-![Revenue by Region](visuals/revenue_by_region.png)
+![Revenue by Region](https://github.com/MonicaAniedobe/RDAMP-Sales-Analysis/blob/main/Total%20Revenue%20by%20Region.png)
 
 - East Midlands region generated the highest total revenue.
 
