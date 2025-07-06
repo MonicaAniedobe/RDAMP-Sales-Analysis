@@ -42,7 +42,7 @@ This project presents a sales data analysis for a retail superstore using Python
 - Product A, Product B, and others dominated sales.
 
 ### 📍 Profit by Main Category
-![Profit by Category](visuals/profit_by_category.png)
+![Profit by Category](https://github.com/MonicaAniedobe/RDAMP-Sales-Analysis/blob/main/Total%20Profit%20by%20Main%20Category.png)
 
 - Clothing and Food categories yielded the highest profit margins.
 
