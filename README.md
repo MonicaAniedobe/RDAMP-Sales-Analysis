@@ -37,7 +37,7 @@ This project presents a sales data analysis for a retail superstore using Python
 - East Midlands region generated the highest total revenue.
 
 ### 📍 Top 5 Best-Selling Products
-![Top 5 Products](visuals/top_5_products.png)
+![Top 5 Products](https://github.com/MonicaAniedobe/RDAMP-Sales-Analysis/blob/main/Top%205%20Best-Selling%20Products%20by%20Revenue.png)
 
 - Product A, Product B, and others dominated sales.
 
