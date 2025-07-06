@@ -47,9 +47,9 @@ This project presents a sales data analysis for a retail superstore using Python
 - Outdoor categories yielded the highest profit margins.
 
 ### 📍 Sales Distribution by Order Mode
-![Sales Distribution](https://github.com/MonicaAniedobe/RDAMP-Sales-Analysis/blob/main/Total%20Revenue%20by%20Region.png)
+![Sales Distribution](https://github.com/MonicaAniedobe/RDAMP-Sales-Analysis/blob/main/Sales%20by%20Order%20mode.png)
 
-- Online sales accounted for approximately 65% of total revenue.
+- Online sales accounted for approximately 51.8% of total revenue.
 
 ---
 
